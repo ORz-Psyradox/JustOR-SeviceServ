@@ -1,0 +1,5 @@
+62	cs16	Counter-Strike 1.6 (2003)	/addserver cs16
+63	cs2	Counter-Strike 2 (2023)	/addserver cs2
+64	cscz	Counter-Strike: Condition Zero (2004)	/addserver cscz
+65	csgo	Counter-Strike: Global Offensive (2012)	/addserver csgo
+66	css	Counter-Strike: Source (2004)	/addserver css	
